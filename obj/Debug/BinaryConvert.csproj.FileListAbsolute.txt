@@ -1,0 +1,10 @@
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\bin\Debug\BinaryConvert.exe.config
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\bin\Debug\BinaryConvert.exe
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\bin\Debug\BinaryConvert.pdb
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\obj\Debug\BinaryConvert.csprojAssemblyReference.cache
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\obj\Debug\BinaryConvert.Form1.resources
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\obj\Debug\BinaryConvert.Properties.Resources.resources
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\obj\Debug\BinaryConvert.csproj.GenerateResource.cache
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\obj\Debug\BinaryConvert.csproj.CoreCompileInputs.cache
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\obj\Debug\BinaryConvert.exe
+C:\Users\ksolanki\Documents\BinaryConvert\BinaryConvert\obj\Debug\BinaryConvert.pdb
